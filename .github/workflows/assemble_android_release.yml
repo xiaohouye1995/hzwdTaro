@@ -16,7 +16,7 @@ env:
   # 应用的application_id
   APP_ID: com.taro.demo
   # 应用名称
-  APP_NAME: Taro Demo
+  APP_NAME: hzwdTaro
   # 应用icon
   APP_ICON: ic_launcher
   # 应用圆角icon
